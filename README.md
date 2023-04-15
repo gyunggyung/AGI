@@ -1,4 +1,4 @@
-# AGI-Papers
+# AGI
 AGI PAPER
 
 1. Dolly: https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
